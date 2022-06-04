@@ -1,20 +1,5 @@
-# 某容器云部署Xray高性能代理服务
 
-在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
 
-Kxxxb：https://owo.misaka.rest/koyeb-xray/
-
-Flyio（已被检测，需要付费）：https://owo.misaka.rest/flyio-xray/
-
-# 请勿使用常用的账号部署此项目，以免封号！！
-
-关于本脚本加密sh文件的说明：由于某容器云已识别本脚本，故不得不加密项目的sh文件代码
-
-## 部署步骤
-
-<details>
-    <summary>Fly.io 容器云 （已被检测，需要付费）</summary>
-1. 使用以下命令安装Flyctl工具
 
 Windows：`iwr https://fly.io/install.ps1 -useb | iex` 
 
